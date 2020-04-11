@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/jatikuma29iv/helo-react.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: jatikuma29iv
+  repo: helo-web
+  url: https://github.com/jatikuma29iv/helo-web.git
+  version: ""
+  versionURL: ""
