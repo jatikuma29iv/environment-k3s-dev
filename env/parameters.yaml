@@ -1,0 +1,10 @@
+adminUser:
+  password: local:k3s/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: craft.de.jet@gmail.com
+  token: local:k3s/pipelineUser:token
+  username: jatikuma29iv
+prow:
+  hmacToken: local:k3s/prow:hmacToken
